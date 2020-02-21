@@ -1,0 +1,11 @@
+.bg-azul {
+    background-color: #132175;
+}
+
+.navbar-brand {
+    background-color: #ffffff;
+    border-radius: 50%;
+    height: 36px;
+    width: 36px;
+    padding: 2px;
+}
